@@ -1,0 +1,46 @@
+Create Branch:
+1. git branch <branch name>
+
+
+
+
+
+List Branch:
+1. git branch --list
+2. git branch
+
+
+
+
+
+Delete Branch:
+1. git branch -d <branch name>
+
+
+
+
+
+Delete a Remote Branch:
+1. git push origin -delete <branch name>
+
+
+
+
+
+Switch Branch:
+1. git checkout <branch name> (Switch from master Branch)
+2. git checkout master (Switch to master branch)
+
+
+
+
+
+Rename Branch:
+1. git branch -m <old branch name> <new branch name>
+
+
+
+
+
+Merge Branch:
+1. git merge <branch name>

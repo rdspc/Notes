@@ -1,14 +1,17 @@
+If you come on first time on GitHub. You should create local repository in directory.
+
 1. git config --global user.name "enter your name"
 2. git config --global user.name
 
 3. git config --global user.email "enter your email"
 4. git config --global user.email
+5. git init
 
 * git add -A (will add all modified and untracked files in the entire repository.)
 * git add . (will only add modified and untracked files in the current directory and any sub-directories.)
 
-5. git init
 6. git add file name with extension
 7. git status
 8. git commit -m "your message"
-9. git push origin master
+9. git remote add origin "http url"
+10. git push origin master

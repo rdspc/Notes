@@ -1,0 +1,28 @@
+Git Fetch: fetch gets all the change history of a tracked branch/repo.
+
+So, on your local Git, fetch updates to see what has changed on GitHub:
+
+1. git fetch origin
+2. git status
+
+
+
+
+
+Git Merge: merge combines the current branch, with a specified branch.
+
+We have confirmed that the updates are as expected, and we can merge our current branch (master) with origin/master:
+
+1. git merge origin/master
+2. git status
+
+
+
+
+
+Git Pull: pull is a combination of fetch and merge. It is used to pull all changes from a remote repository into the branch you are working on.
+
+Use pull to update our local Git:
+
+1. git pull origin
+2. git status

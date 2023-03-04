@@ -1,3 +1,42 @@
+* git remote add origin URL specifies that you are adding a remote repository, with the specified URL, as an origin to your local Git repo.
+
+git remote add origin https://github.com/your_profile_name/your_repository_name.git
+
+
+
+
+
+* Now we are going to push our master branch to the origin url, and set it as the default remote branch.
+
+git push --set-upstream origin master
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 If you come on first time on GitHub. You should create local repository in directory.
 
 1. git config --global user.name "enter your name"
@@ -18,4 +57,3 @@ If you come on first time on GitHub. You should create local repository in direc
 
 
 
-dena

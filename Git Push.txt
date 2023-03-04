@@ -14,7 +14,9 @@ git push --set-upstream origin master
 
 
 
-
+git commit -a -m "commit your message"
+git status
+git push origin
 
 
 

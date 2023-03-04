@@ -1,4 +1,6 @@
-* git remote add origin URL specifies that you are adding a remote repository, with the specified URL, as an origin to your local Git repo.
+First method:
+
+* git remote add origin URL specifies that you are adding a remote repository, with the specified URL, as an origin to your local Git repository.
 
 git remote add origin https://github.com/your_profile_name/your_repository_name.git
 
@@ -14,10 +16,11 @@ git push --set-upstream origin master
 
 
 
+* Push changes to GitHub.
+
 git commit -a -m "commit your message"
 git status
-git push origin
-
+git push
 
 
 

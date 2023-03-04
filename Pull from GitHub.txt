@@ -1,9 +1,11 @@
-Git Fetch: fetch gets all the change history of a tracked branch/repo.
+Git Fetch: fetch gets all the change history of a tracked branch/repository.
 
 So, on your local Git, fetch updates to see what has changed on GitHub:
 
 1. git fetch origin
 2. git status
+3. git log origin/master
+4. git diff origin/master
 
 
 
